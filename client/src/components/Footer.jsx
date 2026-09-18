@@ -11,7 +11,7 @@ export default function Footer() {
           Kyy<span className="grad-text">PureStatus</span>
         </div>
         <div className="text-xs text-slate-500">
-          Dibuat dengan <span className="text-brand">♥</span> + kopi oleh{' '}
+          Dibuat dengan <span className="text-brand"></span> peler oleh{' '}
           <span className="font-semibold text-slate-300">KyyDevv</span> ·{' '}
           <span className="text-slate-400">v{cfg?.version || '2.0.0'}</span>
         </div>
